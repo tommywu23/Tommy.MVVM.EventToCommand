@@ -1,0 +1,15 @@
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\bin\Debug\Tommy.MVVM.EventToCommand.dll
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\bin\Debug\Tommy.MVVM.EventToCommand.pdb
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\bin\Debug\Tommy.MVVM.EventToCommand.pri
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\bin\Debug\WinRtBehaviors.dll
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\Tommy.MVVM.EventToCommand.dll
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\Tommy.MVVM.EventToCommand.pdb
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\priconfig.xml
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\layout.resfiles
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\resources.resfiles
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\pri.resfiles
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\LanguageQualifiers.txt
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\priconfig.xml.intermediate
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\layout.resfiles.intermediate
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\resources.resfiles.intermediate
+E:\MySpace\Tommy.MVVM.EventToCommand\Tommy.MVVM.EventToCommand\obj\Debug\pri.resfiles.intermediate

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.4</version>
+    <title>Tommy.MVVM.EventToCommand</title>
+    <authors>JinSheng.Wu</authors>
+    <owners>JinSheng.Wu</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tommy.MVVM.EventToCommand is a free, open source developer focused event2command via WinRT for MVVM Pattern.Please get source from Git:https://github.com/tommywu23/Tommy.MVVM.EventToCommand"</description>
+    <copyright>Copyright 2013</copyright>
+  </metadata>
+</package>
